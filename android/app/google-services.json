@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788429017509",
+    "project_id": "minhas-viagens-14429",
+    "storage_bucket": "minhas-viagens-14429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788429017509:android:d023cd02cb31a3674bd84c",
+        "android_client_info": {
+          "package_name": "br.gov.serpro.minhas_viagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788429017509-h0j7kah1ia1dk5t7st9rp5kc5plaj6hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknvmIJ7FP9jMq1DUaKAxXIVzDcc2KZ4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788429017509-h0j7kah1ia1dk5t7st9rp5kc5plaj6hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
